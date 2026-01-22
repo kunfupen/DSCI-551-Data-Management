@@ -1,0 +1,32 @@
+{
+  "temp": 65,
+  "today": "wed",
+  "users": {
+    "100": {
+      "age": 20,
+      "name": "John",
+      "scores": {
+        "q1": 10,
+        "q2": 9,
+        "q3": 8
+      }
+    },
+    "200": {
+      "age": 30,
+      "name": "Bill"
+    },
+    "300": {
+      "age": 40,
+      "name": "David"
+    },
+    "Users500": {
+      "age": 29,
+      "name": "Mary Smith"
+    },
+    "users400": {
+      "age": 28,
+      "name": "Mary"
+    }
+  },
+  "weather": "cloudy"
+}
